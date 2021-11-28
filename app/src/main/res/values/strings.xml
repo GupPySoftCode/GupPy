@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GupPy</string>
+    <string name="code">Code</string>
+    <string name="Output">Output</string>
+    <string name="run">RUN</string>
+    <string name="CP1">CP 1</string>
+    <string name="CP2">CP 2</string>
+    <string name="CLR1">CLR 1</string>
+    <string name="CLR2">CLR 2</string>
+</resources>
